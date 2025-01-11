@@ -1,6 +1,6 @@
 # Headed Twitter Wallet Scraper 
 
-Twitter scraper that extracts SOL wallet addresses from tweet replies.
+Twitter scraper that extracts SOL wallet addresses from tweet replies. This is pretty janky but did what it had to do.
 
 ## Features
 
